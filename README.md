@@ -1,6 +1,6 @@
-##DonutChart
+## DonutChart
 A JavaFX DonutChart control.
 
-##Overview
+## Overview
 ![DonutChart](https://dl.dropboxusercontent.com/u/84552/DonutChart.png)
 
